@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Premain-Class: com.github.java.sec.agent.template.AgentMain
+Agent-Class: com.github.java.sec.agent.template.AgentMain
+Main-Class: com.github.java.sec.agent.template.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
